@@ -1,0 +1,10 @@
+Commandes:
+	make - pour créer la librairie
+	make clean - pour détruire les objets mais garder la librairie .a
+	make mrproper - comme make clean mais efface aussi le .a
+	make doc - pour générer la documentation doxygen
+	make cleandoc - pour supprimer la documentation doxygen
+	
+Notes:
+	Puisque l'on peut générer les docs et les librairies, il vaut mieux ne pas les mettre sur svn.
+	Ainsi, on peut améliorer les chances de ne pas utiliser des versions obsolètes.

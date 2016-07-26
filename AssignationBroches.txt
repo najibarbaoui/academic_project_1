@@ -1,0 +1,35 @@
+A1 IN - Capteur distance
+A2 IN - Suiveur gauche
+A3
+A4 IN - Suiveur centre
+A5
+A6 IN - Suiveur droite
+A7 IN - Photoresistance droite
+A8 IN - Photoresistance gauche
+
+B1
+B2
+B3 OUT - Piezzo neg
+B4 OUT - Piezzo pos (Nécessaire, broche output timer)
+B5
+B6
+B7
+B8
+
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+
+D1 OUT - DEL libre
+D2 OUT - DEL libre
+D3 IN - Bouton poussoir (Nécessaire, relié par circuit)
+D4
+D5 OUT - Moteur gauche (Nécessaire, broche output timer)
+D6 OUT - Moteur droit (Nécessaire, broche output timer)
+D7 OUT - Moteur gauche sens
+D8 OUT - Moteur droit sens
